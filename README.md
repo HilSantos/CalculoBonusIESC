@@ -1,4 +1,4 @@
-# CalculoBonusIfElSiCa
+# CalculoBonusIfElSwCa
 Crie um programa que peça ao usuario seu salario (tipo decimal), e o tempo de serviço na empresa em anos (tipo int). O programa deve calcular um bônus salarial baseado no tempo de serviço:
 Menos de 1 ano: Nenhum bônus
 Entre 1 e 5 anos: Bônus de 5% do salario
